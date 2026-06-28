@@ -67,9 +67,12 @@ Sentiment-Analysis-BCA-Mobile-LSTM
 
 ## 🚀 Future Improvements
 
-- Compare LSTM with GRU and Transformer.
-- Deploy the model as a web application.
-- Add an interactive dashboard for visualization.
+- Expand slang word dictionary
+  Enrich the slang_words.csv normalization dictionary to better handle evolving informal Indonesian language in app reviews.
+- Improve class balance handling
+  Address potential class imbalance between Positive, Neutral, and Negative to reduce misclassification, as reflected in the confusion matrix results.
+- Hyperparameter tuning
+  Experiment with different LSTM configurations (units, dropout rate, learning rate) to further improve beyond the current 91.84% accuracy
 
 ---
 

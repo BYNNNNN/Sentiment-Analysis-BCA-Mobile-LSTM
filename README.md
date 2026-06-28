@@ -80,4 +80,4 @@ Sentiment-Analysis-BCA-Mobile-LSTM
 
 **Suryo Bintoro**
 
-Machine Learning & Data Analytics Enthusiast
+Machine Learning - Data Scientist - Data Analytics Enthusiast
